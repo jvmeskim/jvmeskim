@@ -6,8 +6,6 @@
 - 🧠 AI model evaluation & prompt optimization
 - 📊 Data analytics & visualization (Python, SQL, Power BI, Tableau)
 - 💻 Full-stack development & automation tools
-- 🔧 Low-level programming (C, Assembly) & hardware integration
-
 ---
 
 ## 🚀 Current Focus
@@ -19,11 +17,11 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, C++, C, SQL, HTML/CSS, JavaScript  
+**Languages**: Python, C++, SQL, HTML/CSS, JavaScript  
 **Libraries**: Pandas, NumPy, scikit-learn, TensorFlow  
-**Tools**: Git, Power BI, Tableau, Linux, SQLite  
+**Tools**: Git, Power BI, Tableau, SQLite  
 **AI**: Prompt Engineering, LLM Testing, Annotation  
-**Other**: Bash, PHP, Photoshop
+**Other**: Microsoft Office, Photoshop
 
 ---
 
